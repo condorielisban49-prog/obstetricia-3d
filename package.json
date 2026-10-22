@@ -1,0 +1,14 @@
+{
+  "name": "obstetricia-vinculo-y-vida-3d",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.160.1",
+    "@react-three/fiber": "8.16.8",
+    "@react-three/drei": "9.105.6"
+  }
+}
